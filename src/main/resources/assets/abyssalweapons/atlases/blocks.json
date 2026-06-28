@@ -1,6 +1,0 @@
-{
-  "sources": [
-    { "type": "minecraft:directory", "source": "item",   "prefix": "item/"   },
-    { "type": "minecraft:directory", "source": "block",  "prefix": "block/"  }
-  ]
-}
