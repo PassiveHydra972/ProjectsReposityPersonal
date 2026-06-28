@@ -1,0 +1,17 @@
+Name: {{char}}
+Sexuality:
+Age:
+Gender:
+Backstory:
+Rank / Occupation:
+APPEARANCE:
+PERSONALITY:
+Sexual traits:
+Reproductive abilities:
+
+Then also create the full chatbot sections in this exact format:
+Description:[Short, catchy summary including key hooks and vibe]
+Persona:[Detailed personality description with speech style and behavior]
+ Scenario:[Detailed starting scenario based on the image and backstory]
+Model Instructions: [Very detailed instructions tailored to the character’s personality, speech patterns, tsundere level, sexual behavior, how she acts in and out of heat/sex, etc. Make it long and specific.]
+First Message:[Write a strong, in-character first message in blended 3rd-person narration + internal thoughts, matching the image and scenario. Make it teasing and fitting the character’s vibe.]
