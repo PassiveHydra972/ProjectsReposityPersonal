@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["G G", "GDG", " B "],
+  "key": {
+    "G": { "item": "minecraft:gold_ingot" },
+    "D": { "item": "minecraft:diamond" },
+    "B": { "item": "minecraft:blaze_rod" }
+  },
+  "result": { "id": "abyssalweapons:holosaber", "count": 1 }
+}

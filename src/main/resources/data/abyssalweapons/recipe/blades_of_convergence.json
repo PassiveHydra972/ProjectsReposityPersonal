@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["ACA", "BCB", " D "],
+  "key": {
+    "A": { "item": "abyssalweapons:astrallium_alloy" },
+    "C": { "item": "abyssalweapons:crystonium_alloy" },
+    "B": { "item": "abyssalweapons:bladesofduality" },
+    "D": { "item": "abyssalweapons:darksteel_sheets" }
+  },
+  "result": { "id": "abyssalweapons:blades_of_convergence", "count": 1 }
+}

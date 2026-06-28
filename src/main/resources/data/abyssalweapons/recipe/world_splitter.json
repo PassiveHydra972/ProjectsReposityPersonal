@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["VAV", "VDV", " S "],
+  "key": {
+    "V": { "item": "abyssalweapons:vellorium_alloy" },
+    "A": { "item": "abyssalweapons:astrallium_alloy" },
+    "D": { "item": "abyssalweapons:darksteel_sheets" },
+    "S": { "item": "minecraft:netherite_ingot" }
+  },
+  "result": { "id": "abyssalweapons:world_splitter", "count": 1 }
+}

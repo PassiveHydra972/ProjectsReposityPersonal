@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["ICI", "IBI", "ICI"],
+  "key": {
+    "I": { "item": "abyssalweapons:incadium_alloy" },
+    "C": { "item": "abyssalweapons:blades_of_convergence" },
+    "B": { "item": "minecraft:nether_star" }
+  },
+  "result": { "id": "abyssalweapons:razor_of_infinity", "count": 1 }
+}

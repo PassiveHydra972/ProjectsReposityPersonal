@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "DHD",
+    "DDD"
+  ],
+  "key": {
+    "D": { "item": "abyssalweapons:darksteel_block" },
+    "H": { "item": "abyssalweapons:heat_singularity" }
+  },
+  "result": { "id": "abyssalweapons:singularity_core", "count": 1 }
+}

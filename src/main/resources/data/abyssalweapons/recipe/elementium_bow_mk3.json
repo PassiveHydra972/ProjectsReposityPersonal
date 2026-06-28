@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["CAC", "C C", "CAC"],
+  "key": {
+    "C": { "item": "abyssalweapons:crystonium_alloy" },
+    "A": { "item": "abyssalweapons:elementium_bow_mk2" }
+  },
+  "result": { "id": "abyssalweapons:elementium_bow_mk3", "count": 1 }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["CDC", " D ", " S "],
+  "key": {
+    "C": { "item": "abyssalweapons:crystonium_alloy" },
+    "D": { "item": "abyssalweapons:darksteel_sheets" },
+    "S": { "item": "abyssalweapons:dueling_sword_sharp" }
+  },
+  "result": { "id": "abyssalweapons:dueling_sword_razor_edged", "count": 1 }
+}

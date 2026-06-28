@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SSS",
+    "SSS"
+  ],
+  "key": {
+    "S": { "item": "abyssalweapons:darksteel_sheets" }
+  },
+  "result": { "id": "abyssalweapons:darksteel_block", "count": 1 }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["AHA", "HDH", " B "],
+  "key": {
+    "A": { "item": "abyssalweapons:astrallium_alloy" },
+    "H": { "item": "abyssalweapons:hextorium_alloy" },
+    "D": { "item": "abyssalweapons:darksteel_sheets" },
+    "B": { "item": "abyssalweapons:blade_of_the_dead" }
+  },
+  "result": { "id": "abyssalweapons:blade_of_the_forbidden", "count": 1 }
+}

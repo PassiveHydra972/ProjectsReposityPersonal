@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["EHE", " D ", " S "],
+  "key": {
+    "E": { "item": "minecraft:ender_pearl" },
+    "H": { "item": "abyssalweapons:haunted_alloy" },
+    "D": { "item": "abyssalweapons:darksteel_sheets" },
+    "S": { "item": "minecraft:stick" }
+  },
+  "result": { "id": "abyssalweapons:phantom_blade", "count": 1 }
+}

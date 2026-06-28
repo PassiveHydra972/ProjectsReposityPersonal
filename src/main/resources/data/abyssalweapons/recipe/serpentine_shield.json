@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["MHM", "MDM", "MPM"],
+  "key": {
+    "M": { "item": "abyssalweapons:malicium_alloy" },
+    "H": { "item": "abyssalweapons:haunted_alloy" },
+    "D": { "item": "abyssalweapons:darksteel_sheets" },
+    "P": { "item": "abyssalweapons:polarium_alloy" }
+  },
+  "result": { "id": "abyssalweapons:serpentine_shield", "count": 1 }
+}
