@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:crafting_shaped",
-  "pattern": ["IAI", "I I", "IAI"],
-  "key": {
-    "I": { "item": "abyssalweapons:ionite_alloy" },
-    "A": { "item": "abyssalweapons:elementium_bow_mk1" }
-  },
-  "result": { "id": "abyssalweapons:elementium_bow_mk2", "count": 1 }
-}
