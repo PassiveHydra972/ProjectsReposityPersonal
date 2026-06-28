@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:crafting_shaped",
-  "pattern": ["D", "D", "S"],
-  "key": {
-    "D": { "item": "abyssalweapons:darksteel_sheets" },
-    "S": { "item": "minecraft:stick" }
-  },
-  "result": { "id": "abyssalweapons:dueling_sword_dull", "count": 1 }
-}
