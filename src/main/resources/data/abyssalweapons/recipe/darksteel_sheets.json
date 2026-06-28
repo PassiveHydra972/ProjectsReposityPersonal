@@ -1,7 +1,0 @@
-{
-  "type": "minecraft:blasting",
-  "ingredient": { "item": "minecraft:iron_ingot" },
-  "result": { "id": "abyssalweapons:darksteel_sheets" },
-  "experience": 0.1,
-  "cookingtime": 100
-}
