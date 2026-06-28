@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:crafting_shaped",
-  "pattern": ["EBE", "E E", "EBE"],
-  "key": {
-    "E": { "item": "abyssalweapons:emberium_alloy" },
-    "B": { "item": "minecraft:string" }
-  },
-  "result": { "id": "abyssalweapons:elementium_bow_mk1", "count": 1 }
-}
